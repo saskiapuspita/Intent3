@@ -12,28 +12,28 @@
     tools:context="id.sch.smktelkom_mlg.learn.intent3.MainActivity">
 
     <ImageView
-        android:id="@+id/imagePhone"
+        android:id="@+id/imageViewPhone"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_weight="1"
         app:srcCompat="@drawable/ic_call_black_24dp" />
 
     <ImageView
-        android:id="@+id/imageSMS"
+        android:id="@+id/imageViewSMS"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_weight="1"
         app:srcCompat="@drawable/ic_message_black_24dp" />
 
     <ImageView
-        android:id="@+id/imageBrowser"
+        android:id="@+id/imageViewBrowser"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_weight="1"
         app:srcCompat="@drawable/ic_language_black_24dp" />
 
     <ImageView
-        android:id="@+id/imageCamera"
+        android:id="@+id/imageViewCamera"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_weight="1"
